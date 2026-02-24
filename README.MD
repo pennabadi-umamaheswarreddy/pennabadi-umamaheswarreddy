@@ -65,18 +65,6 @@ I design systems that are **secure, scalable, automated, and production-ready.**
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-SpringBoot-green?style=for-the-badge)
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pennabadiumamaheswarreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennabadiumamaheswarreddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 # 💼 Professional Experience
 
 ## Senior DevOps Engineer – Tecnotree (Nov 2024 – Present)
