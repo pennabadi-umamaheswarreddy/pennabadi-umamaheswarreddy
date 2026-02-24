@@ -77,32 +77,6 @@ I design systems that are **secure, scalable, automated, and production-ready.**
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pennabadiumamaheswarreddy&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pennabadiumamaheswarreddy&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 Key Achievements
-
-⭐ Star of the Month – 20% Infrastructure Cost Optimization  
-🚀 Led Kubernetes Adoption Initiative  
-🔐 Integrated DevSecOps Scanning in CI/CD  
-🛠 Implemented Terraform Remote Backend (S3 + DynamoDB Locking)  
-🌐 Solved Critical AWS VPC Peering Production Issues  
-
----
-
 # 💼 Professional Experience
 
 ## Senior DevOps Engineer – Tecnotree (Nov 2024 – Present)
