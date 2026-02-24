@@ -1,168 +1,133 @@
-# 🚀 Umamaheswar Reddy Pennabadi
+<!-- ================= HEADER ================= -->
 
-### Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+<h1 align="center">🚀 Umamaheswar Reddy Pennabadi</h1>
 
-📧 **Email:** [pennabadiumamaheswarreddy@gmail.com](mailto:pennabadiumamaheswarreddy@gmail.com)
-📱 **Phone:** +91 8095630593
-🔗 **LinkedIn:** [www.linkedin.com/in/pennabadiumamaheswarreddy](http://www.linkedin.com/in/pennabadiumamaheswarreddy)
-📍 **Location:** Bangalore, India
+<h3 align="center">
+Senior DevOps Engineer | AWS Cloud Architect | Kubernetes | Terraform | DevSecOps
+</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pennabadiumamaheswarreddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-6+_Years-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bangalore,_India-blue?style=for-the-badge" />
+</p>
 
-## 👨‍💻 About Me
-
-Dedicated and results-driven **DevOps Engineer with 6+ years of hands-on experience** in building, automating, and optimizing cloud-native infrastructure and CI/CD pipelines for enterprise applications.
-
-I specialize in:
-
-* Cloud Infrastructure on **AWS**
-* Containerization with **Docker & Kubernetes (EKS)**
-* Infrastructure as Code using **Terraform**
-* CI/CD automation with **Jenkins, GitHub Actions, Argo CD**
-* Configuration management using **Ansible**
-* DevSecOps integration (SAST, DAST, SonarQube, Image Scanning)
-
-I am passionate about platform engineering, cloud optimization, automation, and cost-efficient architecture design.
+<p align="center">
+  <a href="mailto:pennabadiumamaheswarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pennabadiumamaheswarreddy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 🧠 About Me
 
-### ☁️ Cloud & Networking
+DevOps Engineer with **6+ years of experience** building scalable cloud infrastructure and high-performance CI/CD pipelines for enterprise systems.
 
-* AWS (VPC, EC2, IAM, S3, Route 53, ALB, EBS, EFS, Auto Scaling)
-* AWS Networking (VPC Peering, Load Balancing, Hosted Zones)
+🔹 Specialized in AWS Cloud Architecture  
+🔹 Kubernetes Platform Engineering (EKS)  
+🔹 Infrastructure as Code (Terraform)  
+🔹 DevSecOps Automation  
+🔹 Cloud Cost Optimization (20% Reduction Achieved)  
 
-### 📦 Containerization & Orchestration
-
-* Docker
-* Kubernetes (EKS)
-* Kubernetes Ingress
-* Helm
-
-### 🔁 CI/CD & DevSecOps
-
-* Jenkins
-* GitHub Actions
-* Argo CD
-* Git, GitHub, GitLab
-* SonarQube
-* SAST / DAST
-* Container Image Scanning
-
-### 🏗️ Infrastructure as Code
-
-* Terraform (Remote Backend using S3 + DynamoDB Locking)
-* Ansible
-
-### 💻 Scripting & Programming
-
-* Shell Scripting
-* Python
-* Java (Spring Boot)
-* Node.js
-
-### 📊 Monitoring & Logging
-
-* ELK Stack
-* Prometheus
-* Grafana
+I design systems that are **secure, scalable, automated, and production-ready.**
 
 ---
 
-## 💼 Professional Experience
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & Networking
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-Networking-blue?style=for-the-badge)
+![Route53](https://img.shields.io/badge/Route53-DNS-green?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-Security-red?style=for-the-badge)
+
+## 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+## 🔁 CI/CD & DevSecOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5000?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
+
+## 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+## 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-SpringBoot-green?style=for-the-badge)
 
 ---
 
-### 🏢 Senior DevOps Engineer
+# 📊 GitHub Analytics
 
-**Tecnotree Convergence Pvt Ltd, Bangalore**
-📅 Nov 2024 – Present
-
-* Streamlined CI/CD pipelines for Java applications using Gradle, reducing build & deployment time by **20%**
-* Containerized microservices across **3 development teams**
-* Led Kubernetes adoption, achieving **20% infrastructure cost reduction**
-* Implemented Infrastructure as Code using Terraform for AWS & Kubernetes
-* Designed and managed AWS networking (VPC, Peering, IAM, Load Balancer)
-* Orchestrated Route 53 + ALB integration for custom domain mapping in Kubernetes
-* Implemented Kubernetes Ingress for multiple microservices
-* Configured Terraform remote backend using **S3 + DynamoDB locking**
-* Introduced Git branching strategies and webhook automation
-* Conducted Kubernetes POCs and internal knowledge-sharing sessions
-* Resolved critical production incidents and AWS VPC peering issues
-* Integrated DevSecOps tools (SonarQube, SAST, DAST, image scanning) into pipelines
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pennabadiumamaheswarreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennabadiumamaheswarreddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 🏢 DevOps Engineer
+# 🔥 GitHub Streak
 
-**Tata Consultancy Services (TCS), Bangalore**
-📅 May 2020 – Oct 2024
-
-* Built and maintained CI/CD pipelines using Jenkins, Git, Maven, JFrog
-* Containerized applications using Docker and deployed on Kubernetes (EKS)
-* Created and managed Helm charts
-* Automated Unix patch management using Ansible
-* Developed shell scripts for health checks (CPU, memory, performance)
-* Configured AWS services for Kubernetes workloads
-* Collaborated closely with development teams to optimize code and deployments
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pennabadiumamaheswarreddy&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
-## 🏆 Key Achievements
+# 📈 Contribution Graph
 
-* ⭐ **Star of the Month Award** for achieving 20% cost optimization using Terraform & Kubernetes
-* Successfully led Kubernetes onboarding for multiple teams
-* Reduced deployment failures through DevSecOps integration
-* Presented at local tech meetups on DevOps and Cloud practices
-
----
-
-## 📦 Featured Projects
-
-### 🔹 CI/CD Automation with DevSecOps (AWS)
-
-* Designed an end-to-end CI/CD pipeline
-* Automated build, test, security scans, and deployments
-* Integrated SonarQube, SAST, DAST, and container scanning
-* Enabled zero-downtime rolling deployments on EKS
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pennabadiumamaheswarreddy&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🔹 Monitoring, Logging & Automation Platform
+# 🏆 Key Achievements
 
-* Implemented centralized monitoring using Prometheus & Grafana
-* Designed log aggregation using ELK Stack
-* Automated system health checks and alerts
-* Improved operational visibility across environments
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-Sri Venkateswara University
-June 2017 – April 2020
+⭐ Star of the Month – 20% Infrastructure Cost Optimization  
+🚀 Led Kubernetes Adoption Initiative  
+🔐 Integrated DevSecOps Scanning in CI/CD  
+🛠 Implemented Terraform Remote Backend (S3 + DynamoDB Locking)  
+🌐 Solved Critical AWS VPC Peering Production Issues  
 
 ---
 
-## 📈 Career Objective
+# 💼 Professional Experience
 
-To leverage my DevOps and cloud engineering expertise in a challenging role that enables me to design scalable, secure, and automated cloud infrastructure while contributing to high-performing engineering teams.
+## Senior DevOps Engineer – Tecnotree (Nov 2024 – Present)
+
+- Reduced CI/CD build & deployment time by 20%  
+- Containerized microservices for 3+ teams  
+- Implemented AWS Infrastructure as Code  
+- Designed ALB + Route53 + Ingress integration  
+- Conducted internal DevOps & Kubernetes workshops  
+
+## DevOps Engineer – TCS (May 2020 – Oct 2024)
+
+- Built CI/CD pipelines using Jenkins  
+- Deployed microservices to Kubernetes (EKS)  
+- Automated Unix patch management via Ansible  
+- Created monitoring scripts for production systems  
 
 ---
 
-## 📬 Let's Connect
+# 🎯 Career Goal
 
-If you're looking for someone experienced in:
-
-* AWS Cloud Architecture
-* Kubernetes & Platform Engineering
-* CI/CD & DevSecOps
-* Infrastructure Automation
-
-Feel free to connect with me on LinkedIn or reach out via email.
+To evolve into a **Cloud Architect / Principal DevOps Engineer**, designing large-scale distributed systems with high availability and strong security posture.
 
 ---
 
-⭐ *Always learning. Always automating. Always improving.*
+<h3 align="center">
+⚡ Automate. Secure. Scale. Optimize. ⚡
+</h3>
