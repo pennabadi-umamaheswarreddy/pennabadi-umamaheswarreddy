@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🚀 Umamaheswar Reddy Pennabadi</h1>
+<h1 align="center">Pennabadi Umamaheswar Reddy</h1>
 
 <h3 align="center">
 Senior DevOps Engineer | AWS Cloud Architect | Kubernetes | Terraform | DevSecOps
